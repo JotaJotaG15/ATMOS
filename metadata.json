@@ -1,0 +1,6 @@
+{
+  "name": "ATMOS",
+  "description": "ATMOS - Estación meteorológica inteligente conectada a Firebase Realtime Database con monitoreo en tiempo real, predicciones climáticas, gráficos interactivos y alertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
